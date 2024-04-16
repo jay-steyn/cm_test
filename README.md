@@ -1,2 +1,2 @@
 # cm_test
-test
+snyk
